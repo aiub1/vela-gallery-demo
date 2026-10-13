@@ -40,14 +40,6 @@ npm run build      # gera o site estático em out/
 
 Fotos de exemplo novas: `pip install numpy pillow && npm run photos`.
 
-## Publicar no GitHub Pages
-
-1. Crie o repositório e envie o código para a branch `main`.
-2. Em **Settings → Pages → Build and deployment**, escolha **GitHub Actions**.
-3. O workflow `.github/workflows/pages.yml` gera o site e publica em
-   `https://<usuário>.github.io/<repositório>/`. O caminho base é preenchido
-   sozinho pelo `actions/configure-pages`.
-
 Para testar o build com caminho base localmente:
 
 ```bash
