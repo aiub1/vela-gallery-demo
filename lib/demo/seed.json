@@ -1,0 +1,446 @@
+{
+ "sessions": [
+  {
+   "id": "i",
+   "name": "Sessão I"
+  },
+  {
+   "id": "ii",
+   "name": "Sessão II"
+  },
+  {
+   "id": "iii",
+   "name": "Sessão III"
+  },
+  {
+   "id": "iv",
+   "name": "Sessão IV"
+  },
+  {
+   "id": "v",
+   "name": "Sessão V"
+  }
+ ],
+ "photos": [
+  {
+   "id": "i-01",
+   "sessionId": "i",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "i-02",
+   "sessionId": "i",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "id": "i-03",
+   "sessionId": "i",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "id": "i-04",
+   "sessionId": "i",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "i-05",
+   "sessionId": "i",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "id": "i-06",
+   "sessionId": "i",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "id": "i-07",
+   "sessionId": "i",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "i-08",
+   "sessionId": "i",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "id": "i-09",
+   "sessionId": "i",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "id": "i-10",
+   "sessionId": "i",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "i-11",
+   "sessionId": "i",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "id": "i-12",
+   "sessionId": "i",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "id": "i-13",
+   "sessionId": "i",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "i-14",
+   "sessionId": "i",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "id": "i-15",
+   "sessionId": "i",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "id": "i-16",
+   "sessionId": "i",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "ii-01",
+   "sessionId": "ii",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "id": "ii-02",
+   "sessionId": "ii",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "ii-03",
+   "sessionId": "ii",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "id": "ii-04",
+   "sessionId": "ii",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "id": "ii-05",
+   "sessionId": "ii",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "ii-06",
+   "sessionId": "ii",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "id": "ii-07",
+   "sessionId": "ii",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "id": "ii-08",
+   "sessionId": "ii",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "ii-09",
+   "sessionId": "ii",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "id": "ii-10",
+   "sessionId": "ii",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "id": "ii-11",
+   "sessionId": "ii",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "ii-12",
+   "sessionId": "ii",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "id": "ii-13",
+   "sessionId": "ii",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "id": "ii-14",
+   "sessionId": "ii",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "iii-01",
+   "sessionId": "iii",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "iii-02",
+   "sessionId": "iii",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "id": "iii-03",
+   "sessionId": "iii",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "id": "iii-04",
+   "sessionId": "iii",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "iii-05",
+   "sessionId": "iii",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "id": "iii-06",
+   "sessionId": "iii",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "id": "iii-07",
+   "sessionId": "iii",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "iii-08",
+   "sessionId": "iii",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "id": "iii-09",
+   "sessionId": "iii",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "id": "iii-10",
+   "sessionId": "iii",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "iii-11",
+   "sessionId": "iii",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "id": "iii-12",
+   "sessionId": "iii",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "id": "iii-13",
+   "sessionId": "iii",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "iii-14",
+   "sessionId": "iii",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "id": "iii-15",
+   "sessionId": "iii",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "id": "iv-01",
+   "sessionId": "iv",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "iv-02",
+   "sessionId": "iv",
+   "width": 1600,
+   "height": 900
+  },
+  {
+   "id": "iv-03",
+   "sessionId": "iv",
+   "width": 1067,
+   "height": 1600
+  },
+  {
+   "id": "iv-04",
+   "sessionId": "iv",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "iv-05",
+   "sessionId": "iv",
+   "width": 1600,
+   "height": 900
+  },
+  {
+   "id": "iv-06",
+   "sessionId": "iv",
+   "width": 1067,
+   "height": 1600
+  },
+  {
+   "id": "iv-07",
+   "sessionId": "iv",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "iv-08",
+   "sessionId": "iv",
+   "width": 1600,
+   "height": 900
+  },
+  {
+   "id": "iv-09",
+   "sessionId": "iv",
+   "width": 1067,
+   "height": 1600
+  },
+  {
+   "id": "iv-10",
+   "sessionId": "iv",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "iv-11",
+   "sessionId": "iv",
+   "width": 1600,
+   "height": 900
+  },
+  {
+   "id": "iv-12",
+   "sessionId": "iv",
+   "width": 1067,
+   "height": 1600
+  },
+  {
+   "id": "v-01",
+   "sessionId": "v",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "v-02",
+   "sessionId": "v",
+   "width": 1600,
+   "height": 900
+  },
+  {
+   "id": "v-03",
+   "sessionId": "v",
+   "width": 1067,
+   "height": 1600
+  },
+  {
+   "id": "v-04",
+   "sessionId": "v",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "v-05",
+   "sessionId": "v",
+   "width": 1600,
+   "height": 900
+  },
+  {
+   "id": "v-06",
+   "sessionId": "v",
+   "width": 1067,
+   "height": 1600
+  },
+  {
+   "id": "v-07",
+   "sessionId": "v",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "v-08",
+   "sessionId": "v",
+   "width": 1600,
+   "height": 900
+  },
+  {
+   "id": "v-09",
+   "sessionId": "v",
+   "width": 1067,
+   "height": 1600
+  },
+  {
+   "id": "v-10",
+   "sessionId": "v",
+   "width": 1600,
+   "height": 1067
+  },
+  {
+   "id": "v-11",
+   "sessionId": "v",
+   "width": 1600,
+   "height": 900
+  },
+  {
+   "id": "v-12",
+   "sessionId": "v",
+   "width": 1067,
+   "height": 1600
+  },
+  {
+   "id": "v-13",
+   "sessionId": "v",
+   "width": 1600,
+   "height": 1067
+  }
+ ]
+}
